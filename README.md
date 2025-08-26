@@ -11,7 +11,7 @@ This project benchmarks four different control strategies for a community microg
 3.  **Centralized DDPG Agent:** A single Deep Deterministic Policy Gradient (DDPG) agent that controls all components.
 4.  **Proposed MADDPG Agent:** A Multi-Agent DDPG controller where each building and the SESS is a separate agent.
 
-The neural networks, replay buffer, and RL training loops for both DDPG and MADDPG are implemented from scratch to demonstrate a deep understanding of the algorithms.
+
 
 ## How to Run
 
